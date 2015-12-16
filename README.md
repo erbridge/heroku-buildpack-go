@@ -1,5 +1,7 @@
 # Heroku Buildpack: Go
 
+**WARNING: This fork has been hacked to fit my needs. Use at your own risk!**
+
 This is the [Heroku buildpack][buildpack] for [Go][go].
 
 ## Getting Started
@@ -9,7 +11,7 @@ Follow the guide at
 <https://devcenter.heroku.com/articles/getting-started-with-go>
 
 There's also a hello world sample app at
-<https://github.com/heroku/go-getting-started> 
+<https://github.com/heroku/go-getting-started>
 
 ## Example
 
